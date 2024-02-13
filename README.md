@@ -15,8 +15,6 @@ You can install these dependencies using `pip`:
 
 pip install speechrecognition requests
 
-applescript
-Copy
 
 ## Usage
 
